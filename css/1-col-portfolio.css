@@ -4,9 +4,21 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+
+.longNAVBAR .container .a {
+    float: right;
+}
+
+.longNAVBAR .container .collapseNAVBAR .li {
+    float: right;
+}
+
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    
 }
+
 
 footer {
     margin: 50px 0;
