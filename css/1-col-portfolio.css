@@ -6,11 +6,11 @@
 
 
 
-.longNAVBAR .container .a {
+.navbar navbar-inverse navbar-fixed-top .container .a {
     float: right;
 }
 
-.longNAVBAR .container .collapseNAVBAR .li {
+.navbar navbar-inverse navbar-fixed-top .container .collapse navbar-collapse .li {
     float: right;
 }
 
